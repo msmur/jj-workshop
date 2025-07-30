@@ -4,4 +4,10 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-I'm doing something differently this time!
++I'm doing something differently this time!
+
+* The best operating system is MacOS
+* The best text editor is Sublime Text
+* The best kind of phone is My Phone!
+* The best superhero is Superman!
+
